@@ -265,8 +265,9 @@ HTTP 常用的请求方法：
 
 
 - [扒一扒HTTPS网站的内幕](https://segmentfault.com/a/1190000003801450)
+- [又拍云 - HTTPS 原理详解](http://support.upyun.com/hc/kb/article/1031843/)
 - [简书 - 九个问题从入门到熟悉HTTPS](http://www.jianshu.com/p/072a657337ae)
-- [理解HTTPS为什么安全前，先看看这些东西](http://mp.weixin.qq.com/s/7ImZolr7m3tUuyOgMJeFYg)
+- [理解HTTPS为什么安全前，先看看这些东西](http://mp.weixin.qq.com/s/7ImZolr7m3tUuyOgMJeFYg)
 - [HTTPS为什么安全 &分析 HTTPS 连接建立全过程](http://www.jianshu.com/p/0d8575b132a8)
 - [HTTPS 免费证书申请教程](https://juejin.im/entry/589d44dd61ff4b006b3896d0)
 - [掘金 - 升级 Https 的那些事](https://juejin.im/entry/58aba456128fe1006a4f3393)
