@@ -313,7 +313,7 @@ HTTP 常用的请求方法：
 - [github.io - HTTP 协议 (笔试面试知识整理)](https://hit-alibaba.github.io/interview/basic/network/HTTP.html)  -  里面的东西很全面
 - [掘金 - 面试 - 网络 HTTP](https://juejin.im/post/5872309261ff4b005c4580d4)
 - [csdn - HTTP 必知必会 — 常见面试题总结](http://blog.csdn.net/zhangliangzi/article/details/51336564)
-- [简书 -TCP/IP（六）：HTTP 与 HTTPS 简介](简书 - [面试∙网络] TCP/IP（六）：HTTP 与 HTTPS 简介)
+- [简书 -TCP/IP（六）：HTTP 与 HTTPS 简介](http://www.jianshu.com/p/6e7521041e92)
 - [简书 - 面试时如何优雅的谈论HTTP／1.0／1.1／2.0](http://www.jianshu.com/p/52d86558ca57)
 - [猫哥网络编程系列：详解 BAT 面试题](https://github.com/kaiye/kaiye.github.com/issues/3)
 - [segmentfault - GET请求和POST请求的区别](https://segmentfault.com/a/1190000004014583)
