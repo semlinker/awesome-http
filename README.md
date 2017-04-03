@@ -356,7 +356,9 @@ HTTP 常用的请求方法：
 - [简书 - Python 福利小爬虫，爬取今日头条街拍美女图](http://www.jianshu.com/p/d67b1d4b99ad)
 - [掘金 - Python 爬虫：把廖雪峰的教程转换成 PDF 电子书](https://juejin.im/post/589d1dac1b69e60059ba1017)
 
-## HTTP 文章资源
+## HTTP 资源
+
+### 文章
 
 - [阮一峰 - HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)
 - [HTTP 协议详解](http://mp.weixin.qq.com/s/27zpNIGhVbx-on9FDs_6dw)
@@ -364,6 +366,11 @@ HTTP 常用的请求方法：
 - [跟着 Github 学习 Restful HTTP API 设计](http://cizixs.com/2016/12/12/restful-api-design-guide)
 - [imweb前端社区 - HTTP1.1与前端性能](http://imweb.io/topic/554c5879718ba1240cc1dd8a)
 - [关于 Web 安全，99% 的网站都忽略了这些](https://segmentfault.com/a/1190000003852910)
+
+### 视频
+
+* [百度传课 - WEB系统测试 - HTTP协议详解](https://www.chuanke.com/v2858504-166873-765686.html)
+* [慕课网 - PHP中的HTTP协议](http://www.imooc.com/learn/758)
 
 ## HTTP 抓包工具及教程
 
@@ -420,6 +427,11 @@ HTTP 常用的请求方法：
 
 - [HttpClient](http://hc.apache.org/downloads.cgi) 
 
+### Android
+
+* [okhttp](https://github.com/square/okhttp)
+  * [慕课网 - okhttp框架解析与应用](http://www.imooc.com/learn/732)
+
 ### Python
 
 - [urllib](https://docs.python.org/2/library/urllib.html#urllib.urlencode)
@@ -428,6 +440,7 @@ HTTP 常用的请求方法：
 
 
 - [Requests](http://docs.python-requests.org/en/master/)
+  - [慕课网 - 走进Requests库](http://www.imooc.com/learn/736)
 
 **若只使用python3.X, 下面可以不看了, 记住有个urllib的库就行了**
 
@@ -459,6 +472,8 @@ python3.X 有这些库名可用: urllib, urllib3, httplib2, requests
 
 
 - [博客园 - Jmeter教程 简单的压力测试](http://www.cnblogs.com/TankXiao/p/4059378.html)
+- [慕课网 - 接口测试基础入门篇](http://www.imooc.com/learn/738)
+- [慕课网 - JMeter之HTTP协议接口性能测试](http://www.imooc.com/learn/791)
 - [介绍几款Web服务器性能压力测试工具](http://www.qixing318.com/article/introduce-a-few-web-server-performance-pressure-testing-tools.html)
 
 ## HTTP 代理服务器
