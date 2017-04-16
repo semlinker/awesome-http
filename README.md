@@ -1,6 +1,4 @@
-# HTTP 资源大全
-
-如果有好的资源，希望大家帮忙推荐哈！
+# Awesome HTTP <a href="https://github.com/semlinker/awesome-http"><img src="https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Awesome" data-canonical-src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width:100%;"></a>
 
 ## B/S 结构定义
 
