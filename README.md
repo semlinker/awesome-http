@@ -1,4 +1,31 @@
-# Awesome HTTP <a href="https://github.com/semlinker/awesome-http"><img src="https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Awesome" data-canonical-src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width:100%;"></a>
+# Awesome HTTP [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/semlinker/awesome-http)
+
+## 目录
+
+* [B/S 结构定义](#B/S 结构定义)
+* [URI (统一资源标志符)](#URI (统一资源标志符))
+* [MIME](#MIME)
+* [HTTP 协议](#HTTP 协议)
+* [HTTP 请求报文](#HTTP 请求报文)
+* [HTTP 响应报文](#HTTP 响应报文)
+* [HTTP Methods](#HTTP Methods)
+* [HTTP Status Code](#HTTP Status Code)
+* [HTTP Cookie & Session](#HTTP Cookie & Session)
+* [HTTP Cache (缓存)](#HTTP Cache(缓存))
+* [HTTP CORS (跨域资源共享)](#HTTP CORS (跨域资源共享))
+* [HTTPS](#HTTPS)
+* [HTTP/2](#HTTP/2)
+* [HTTP 安全](#HTTP 安全)
+* [HTTP 面试](#HTTP 面试)
+* [HTTP 爬虫](#HTTP 爬虫)
+* [HTTP 资源](#HTTP 资源)
+* [HTTP 抓包工具及教程](#HTTP 抓包工具及教程)
+* [Chrome HTTP 插件](#Chrome HTTP 插件)
+* [HTTP 平台资源库](#HTTP 平台资源库)
+* [HTTP 压力测试](#HTTP 压力测试)
+* [HTTP 代理服务器](#HTTP 代理服务器)
+* [HTTP 图书](#HTTP 图书)
+* [参考资源](#参考资源)
 
 ## B/S 结构定义
 
@@ -317,7 +344,7 @@ HTTP 常用的请求方法：
 - [segmentfault - GET请求和POST请求的区别](https://segmentfault.com/a/1190000004014583)
 - [开源中国 - 99%的人理解错 HTTP 中 GET 与 POST 的区别](https://www.oschina.net/news/77354/http-get-post-different)
 
-## HTTP 爬虫文章
+## HTTP 爬虫
 
 ### Resources
 
@@ -516,3 +543,6 @@ python3.X 有这些库名可用: urllib, urllib3, httplib2, requests
 
 - [HTTP请求报文和HTTP响应报文以及工作原理](http://www.kannng.com/http/2016/10/26/http-packets.html)
 - [百度百科 - HTTP](http://baike.baidu.com/link?url=Z2p_PetqY7-ujWiMn15wvG6z4K7ORksVt8Dy47sWI2KF_p4VEZKZrN_7vfwuF1HLBfzLs_vJJNyyF-xAQ4AyuK#1)
+
+**[⬆ 返回顶部](#目录)**
+
